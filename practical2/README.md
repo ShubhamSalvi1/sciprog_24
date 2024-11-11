@@ -10,8 +10,8 @@
 	* ./convert
 * Output:
 	* for sum.c : 
- 	Sum1=500500.000000
- 	Sum2=50 0500.000000
- 	Difference between the two is 0.000000
+ 	Sum1=7.485478
+ 	Sum2=7.485472
+ 	Difference between the two is  0.000007
 	* for Conversion.c
 	inum=6,  fnum=6.000000, inum in binary=110
