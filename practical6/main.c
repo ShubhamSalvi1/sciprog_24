@@ -4,7 +4,7 @@
 void matmult(int n, int p, int q , double A[n][p], double B[p][q], double C[n][q]);
 
 int main(){
-    int n=5, p=3, q=4;
+    int n=4, p=5, q=4;
     double A[n][p], B[p][q],C[n][q];
     int i, j ,k;
 
