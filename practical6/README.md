@@ -20,24 +20,26 @@ gcc main.c mm.c -o matmult
 
 ## Execution:
  ```bash
-.\matmult
-
+./matmult
+```
+## Output: 
+```bash
 The Matrix A is:
-  0  1  2
-  1  2  3
-  2  3  4
-  3  4  5
-  4  5  6
+  0  1  2  3  4
+  1  2  3  4  5
+  2  3  4  5  6
+  3  4  5  6  7
 The Matrix B is:
   0 -1 -2 -3
   1  0 -1 -2
   2  1  0 -1
+  3  2  1  0
+  4  3  2  1
 The Matrix C is:
-  5       2      -1      -4
-  8       2      -4     -10
- 11       2      -7     -16
- 14       2     -10     -22
- 17       2     -13     -28
+ 30      20      10       0
+ 40      25      10      -5
+ 50      30      10     -10
+ 60      35      10     -15
 ```
 
 * MakeFile: 
