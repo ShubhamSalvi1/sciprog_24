@@ -10,7 +10,7 @@
 	3. only rebuilding files that have been changed so that we can avoid unnecessary computations.
 	4. clean command which can delete files of a specific format which we don't want.
 ## Compile:
-* Main function:
+* **Main function**:
  
 ```bash
 
@@ -20,7 +20,7 @@ gcc main.c mm.c -o matmult
 
 ## Execution:
  ```bash
-.\matmult
+ .\matmult 
 
 The Matrix A is:
   0  1  2
@@ -40,7 +40,7 @@ The Matrix C is:
  17       2     -13     -28
 ```
 
-* MakeFile: 
+* **MakeFile**: 
 ```bash
 CC = gcc # C Compiler
 CCFLAGS = -O3
