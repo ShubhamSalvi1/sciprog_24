@@ -1,0 +1,95 @@
+commit b4cbd5314b92c45f11f8d5470c081114c7c82e36 (HEAD -> practical9, origin/practical9, practical8)
+Author: Shubham Santosh Salvi <shubhamsalvi09@gmail.com>
+Date:   Sat Nov 23 15:56:02 2024 +0000
+
+    Adding all the files to practical9 folder
+
+commit 464305ee934be5a1d27c2f56e59d45fae373d885 (origin/practical8)
+Author: Shubham Santosh Salvi <shubhamsalvi09@gmail.com>
+Date:   Wed Nov 20 14:17:07 2024 +0000
+
+    Adding all the files to practical8 folder
+
+commit 410d174e19ea072e1f49a31cc233b3c60d9ea472 (origin/practical7, practical7)
+Author: Shubham Santosh Salvi <shubhamsalvi09@gmail.com>
+Date:   Wed Nov 20 02:34:09 2024 +0000
+
+    Adding all the files to practical7 branch
+
+commit 33bb8141a74deb62d884043cb8934a4856e5f49b (origin/practical6, practical6)
+Author: Shubham Santosh Salvi <shubhamsalvi09@gmail.com>
+Date:   Tue Nov 12 00:55:16 2024 +0000
+
+    Adding all the files to practical6 branch
+
+commit fe4f88ca87bac0804e6af94740bb0edff4383896 (origin/practical5, practical5)
+Author: Shubham Santosh Salvi <shubhamsalvi09@gmail.com>
+Date:   Sun Nov 10 12:59:53 2024 +0000
+
+    Adding README.md file to practical 4 folder
+
+commit 8fad36d751253193e218c1eef2d2a7db04edf879
+Author: Shubham Santosh Salvi <shubhamsalvi09@gmail.com>
+Date:   Sat Nov 9 22:23:13 2024 +0000
+
+    Update .gitignore to exclude untracked files
+
+commit d0b40f0d710df822dcfa22e5fb930c8c60991213
+Author: Shubham Santosh Salvi <shubhamsalvi09@gmail.com>
+Date:   Sat Nov 9 22:21:46 2024 +0000
+
+    Update .gitignore to exclude untracked files
+
+commit 9e3fe82638e6fd00dcd3058c4795d66f38d4f2c2
+Author: Shubham Santosh Salvi <shubhamsalvi09@gmail.com>
+Date:   Sat Nov 9 22:16:53 2024 +0000
+
+    Adding a .gitignore file to exclude temporary files
+
+commit af14cb77cc5b3e0b146c92866ffaeb4e5000cafd
+Author: Shubham Santosh Salvi <shubhamsalvi09@gmail.com>
+Date:   Sat Nov 9 22:13:04 2024 +0000
+
+    Adding .gitignore file to exclude temporary files
+
+commit 6084d82fad97f5f53d9c00cfda621519d66f17f4
+Author: Shubham Santosh Salvi <shubhamsalvi09@gmail.com>
+Date:   Sat Nov 9 22:08:57 2024 +0000
+
+    Adding README.md file to practical4 folder
+
+commit 8c9ee0ae756d9b1b2e917879434b18318f6ab7e5
+Author: Shubham Santosh Salvi <shubhamsalvi09@gmail.com>
+Date:   Sat Nov 9 22:06:42 2024 +0000
+
+    Adding trap02.c to practical4
+
+commit 08e5399e364d8457c4fda4396ada3a14db78b8c2 (origin/practical2, practical2)
+Author: Shubham Santosh Salvi <shubhamsalvi09@gmail.com>
+Date:   Sat Nov 9 15:54:06 2024 +0000
+
+    Add .gitignore to exclude temporary files
+
+commit e44e67d990045e1dffd4e5ce01b40f6d4fbf2827
+Author: Shubham Santosh Salvi <shubhamsalvi09@gmail.com>
+Date:   Sat Nov 9 15:38:11 2024 +0000
+
+    Adding Conversion.c file to practical2
+
+commit 62d003403b022b1122cb85bc523ea55cddc68bd3
+Author: Shubham Santosh Salvi <shubhamsalvi09@gmail.com>
+Date:   Sat Nov 9 15:36:01 2024 +0000
+
+    Adding README.md file to practical2
+
+commit 9ded56637c9174267d49d10b2639abae862d662a
+Author: Shubham Santosh Salvi <shubhamsalvi09@gmail.com>
+Date:   Sat Nov 9 14:42:11 2024 +0000
+
+    Adding sum.c file to practical2
+
+commit aecc76fe89b341511d9286f252ea0d025ab6af8e (master)
+Author: Shubham Santosh Salvi <shubhamsalvi09@gmail.com>
+Date:   Sun Oct 13 21:02:24 2024 +0100
+
+    Add introduction to Git Assignment project
